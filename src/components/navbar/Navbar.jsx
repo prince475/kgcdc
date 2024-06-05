@@ -1,16 +1,12 @@
 import logo from "@assets/logos/kgcdc-logo.svg";
-import { navLinks } from "./navlinks";
-import Link from "./Link";
+import DesktopMenu from "./DesktopMenu";
+
 const Navbar = () => {
   return (
     <nav className="flex justify-between p-4 lg:px-24">
-      <img src={logo} className="size-20" alt="Page Logo" />
+      <img src={logo} className="size-10 lg:size-20" alt="Page Logo" />
 
-      <div className="flex items-center gap-4 p-4">
-        {navLinks.map((link, index) => (
-          <Link key={index} link={link} />
-        ))}
-      </div>
+      <DesktopMenu />
     </nav>
   );
 };
