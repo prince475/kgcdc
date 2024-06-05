@@ -6,7 +6,7 @@ const SectionHeading = ({ className, ...props }) => {
     <h2
       {...props}
       className={cn(
-        "text-center text-2xl font-bold text-[#393939] lg:text-5xl",
+        "text-center text-xl font-bold text-[#393939] lg:text-5xl",
         className,
       )}
     >

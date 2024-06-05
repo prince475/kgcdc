@@ -4,14 +4,14 @@ import Button from "@/components/buttons/Button";
 import SectionHeading from "@/components/texts/SectionHeading";
 const HeroSection = () => {
   return (
-    <div className="relative">
+    <div>
       <img src={heroSectionImage} className="w-full" alt="Hero Section Image" />
 
-      <div className="relative z-10 -mt-52 flex min-h-[50vh] w-full flex-col items-center justify-center gap-8 rounded-[160px] bg-[#E3D8F6] lg:px-56">
+      <div className="relative z-10 -mt-10 flex min-h-[50vh] w-full flex-col items-center justify-center gap-2 rounded-[40px] bg-[#E3D8F6] p-5 lg:-mt-52 lg:gap-8 lg:rounded-[160px] lg:px-56">
         <SectionHeading className={""}>
           Kuria Girl Child Development Center
         </SectionHeading>
-        <DynamicText as="h3" className="lg:text-[28px]">
+        <DynamicText as="h3" className="text-sm lg:text-[28px]">
           Empowering Girls, Transforming Communities
         </DynamicText>
         <DynamicText className={"lg:text-xl"}>
@@ -20,7 +20,7 @@ const HeroSection = () => {
           opportunity to thrive. Learn how you can make a difference today.
         </DynamicText>
 
-        <div className="flex items-center gap-4">
+        <div className="flex flex-col items-center gap-4 md:flex-row">
           <Button className="bg-purple-800 text-white outline-purple-800 hover:bg-white hover:text-purple-800">
             Join Us
           </Button>
