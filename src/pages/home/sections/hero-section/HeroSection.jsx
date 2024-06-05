@@ -7,7 +7,7 @@ const HeroSection = () => {
     <div>
       <img src={heroSectionImage} className="w-full" alt="Hero Section Image" />
 
-      <div className="relative z-10 -mt-10 flex min-h-[50vh] w-full flex-col items-center justify-center gap-2 rounded-[40px] bg-[#E3D8F6] p-5 lg:-mt-52 lg:gap-8 lg:rounded-[160px] lg:px-56">
+      <div className="relative z-10 -mt-10 flex w-full flex-col items-center justify-center gap-2 rounded-[40px] bg-[#E3D8F6] p-5 px-4 md:-mt-24 md:min-h-[30vh] md:gap-4 lg:-mt-52 lg:min-h-[50vh] lg:gap-8 lg:rounded-[160px] lg:px-56">
         <SectionHeading className={""}>
           Kuria Girl Child Development Center
         </SectionHeading>
