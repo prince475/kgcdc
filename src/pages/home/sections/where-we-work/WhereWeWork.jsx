@@ -3,8 +3,8 @@ import map from "@assets/images/homepage/where-we-work/map.svg";
 
 const WhereWeWork = () => {
   return (
-    <div className="grid grid-cols-1 p-4 md:grid-cols-2 lg:p-8">
-      <div className="flex flex-col justify-center gap-4 p-4">
+    <section className="grid grid-cols-1 p-4 md:grid-cols-2 lg:p-8">
+      <div className="flex flex-col justify-center gap-4 lg:p-4">
         <DynamicText
           as="h3"
           className="text-left text-2xl font-semibold text-purple-800 md:text-left md:text-2xl lg:text-2xl"
@@ -29,7 +29,7 @@ const WhereWeWork = () => {
         </DynamicText>
       </div>
       <img src={map} alt="Map" className="w-full" />
-    </div>
+    </section>
   );
 };
 

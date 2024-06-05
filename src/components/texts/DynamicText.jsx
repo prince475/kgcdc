@@ -6,7 +6,7 @@ const DynamicText = ({ as: Tag = "p", className, ...props }) => {
     <Tag
       {...props}
       className={cn(
-        "font-montserrat text-xs text-[#393939] text-center lg:text-base",
+        "font-montserrat text-center text-xs text-[#393939] lg:text-base",
         className,
       )}
     >
