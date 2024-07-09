@@ -11,9 +11,18 @@ Robi's journey began in 1974 when she defied tradition and refused to undergo fe
 Founded in 2012, KGCDC is dedicated to accelerating efforts to end Female Genital Mutilation/Cutting (FGM/C), child marriages, teen pregnancies, and inequalities perpetuated by poverty, aligning with international commitments and legal provisions aimed at eradicating violence and discrimination.
 
 Through advocacy, education, rescue efforts, and community sensitization, KGCDC strives to transform social norms and provide girls with opportunities for education and empowerment, confronting the entrenched practices that hinder their futures. In the face of staggering statistics and cultural barriers, KGCDC remains steadfast in its mission to protect the rights and dignity of girls and women, paving the way for a brighter and more equitable future for all.
-Our Mission
-Using children centred approaches to empower and transform communities,eliminating causes of inequality and child abuse.
 
+### Our Mission
+
+`Using children centred approaches to empower and transform communities,eliminating causes of inequality and child abuse.`
+
+### Our Vision
+
+`A world free of FGM/C and other harmful retrogressive practices where every child has equal chance to attain their full potential.`
+
+### Our Values
+
+`We are committed to providing a safe and secure environment for all children, parents and staff to learn, grow and thrive.`
 
 ## Technologies used for this project
 
