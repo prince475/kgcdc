@@ -14,15 +14,24 @@ Through advocacy, education, rescue efforts, and community sensitization, KGCDC 
 
 ### Our Mission
 
-`Using children centred approaches to empower and transform communities,eliminating causes of inequality and child abuse.`
+- Using children centred approaches to empower and transform communities,eliminating causes of inequality and child abuse.
 
 ### Our Vision
 
-`A world free of FGM/C and other harmful retrogressive practices where every child has equal chance to attain their full potential.`
+- A world free of FGM/C and other harmful retrogressive practices where every child has equal chance to attain their full potential.
 
 ### Our Values
 
-`We are committed to providing a safe and secure environment for all children, parents and staff to learn, grow and thrive.`
+- We are committed to providing a safe and secure environment for all children, parents and staff to learn, grow and thrive.
+
+### Where we work
+- We work primarily within the southern part of Kenya, particularly in Kuria sub-county, which is situated within Migori county and parts of Narok County. The reason for 
+  focusing our efforts in this region is because it is where harmful practices such as Female Genital Mutilation (FGM/C), early marriages, and other detrimental cultural 
+  practices are prevalent.
+
+- By working in this area, we aim to initiate, promote, and facilitate community-based development projects that focus on children's quality education, development, and 
+  protection against these harmful practices. Our goal is to empower families and communities to safeguard their children and create a safer, more supportive environment 
+  for them to thrive.
 
 ## Technologies used for this project
 
