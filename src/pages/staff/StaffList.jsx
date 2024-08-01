@@ -34,6 +34,7 @@ const StaffList = () => {
                 She is an educationist who exited public service and founded Kehancha Ravine academy to further her passion and dream of ending violence against children through Education and mentorship. She holds a bachelor of arts in Education. She spends her free time in Church supporting her husband who is a bishop with PEFA churches.
               </p>
            </div>
+
          </div>
         </div>
 
@@ -47,6 +48,7 @@ const StaffList = () => {
 
       {/* supporting staff */}
        <SupportStaff />
+       
     </div>
   );
 };
