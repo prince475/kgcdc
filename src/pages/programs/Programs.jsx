@@ -1,19 +1,20 @@
-import { Achievements } from "./sections/Achievements";
+import  Achievements  from "./sections/Achievements";
 import { Activities } from "./sections/Activities";
-import { Hero } from "./sections/Hero";
-import { OurApproach } from "./sections/OurApproach";
-import { OurPrograms } from "./sections/OurPrograms";
+import  Hero  from "./sections/Hero";
+import  {OurApproach }  from "./sections/OurApproach";
+import OurPrograms  from "./sections/OurPrograms";
 
 const Programs = () => {
   return(
-  <section>
+  <section >
     
     <Hero />
-    <OurApproach />
-    <OurPrograms />
-    <Achievements />
-    <Activities />
-    
+   
+       <OurApproach />
+       <OurPrograms />
+       <Achievements />
+       <Activities />
+ 
 
   </section>
    
