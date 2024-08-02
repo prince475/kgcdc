@@ -40,7 +40,7 @@ const StaffList = () => {
 
 
       {/* Remaining cards displayed in 2 per row */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div className="grid grid-cols-1 mt-20 lg:grid-cols-2 gap-28">
         {staffContent.slice(1).map((staff, index) => (
           <StaffCard key={index} staff={staff} />
         ))}
