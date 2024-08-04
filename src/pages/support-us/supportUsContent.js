@@ -5,6 +5,7 @@ import oppia from "@/assets/images/support-us page/oppia.svg";
 import worldvision from "@/assets/images/support-us page/worldvision.svg";
 import   Wholives from "@/assets/images/support-us page/wholives.svg";
 import Compassion from "@/assets/images/support-us page/compassion.svg";
+import sponsorchild from "@/assets/images/support-us page/sponsorChild.svg"
 
 export const patnersData = [
     {
@@ -71,4 +72,19 @@ export const JoinUsData = [
       },
    
 
+]
+
+
+export const sponsorChild = [
+  {
+    image: sponsorchild,
+    title: "Get in touch with us to Sponsor a child today",
+    description: [
+      `In Kuria, poverty is a major barrier preventing children from accessing formal education. Additionally, many girls are disowned by their families for refusing to undergo FGM or early marriage. `,
+
+      `KGCDC works tirelessly to combat these challenges by collaborating with the necessary organizations to ensure that these girls receive a comprehensive education and have all their needs met. `,
+
+      `Your sponsorship can make a significant difference in breaking these cycles and empowering these girls to build a brighter future`
+    ],
+},
 ]
