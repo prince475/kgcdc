@@ -46,7 +46,7 @@ const ContactForm = () => {
   };
 
   return (
-    <div className="max-w-9xl mx-auto px-2 py-8 md:px-10 md:py-12  lg:py-16 ">
+    <div className="ml mx-auto  py-8  md:py-12  lg:py-16 ">
       <DynamicText as='h1' className='text-2xl md:text-3xl lg:text-4xl font-montserrat font-bold text-left mb-6'>Contact Form</DynamicText>
       <DynamicText className="mb-4 text-base md:text-lg lg:text-xl text-left">
         Please provide your details below so that we can reach out to you with more information about sponsoring a child. Your support can make a significant difference in their lives.

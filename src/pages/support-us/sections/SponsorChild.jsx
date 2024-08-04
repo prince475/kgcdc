@@ -24,7 +24,8 @@ const SponsorChild = () => {
         </div>
       </div>
       <ContactForm />
-      {/* <Contact /> */}
+      <div className=''> <Contact /></div>
+     
     </div>
   );
 }
