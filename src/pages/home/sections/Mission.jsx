@@ -1,5 +1,5 @@
-import { cardContents } from "./cardContents";
-import ReusableCard from "./ReusableCard";
+import { cardContents } from "./mission/cardContents";
+import ReusableCard from "./mission/ReusableCard";
 
 const Mission = () => {
   return (
