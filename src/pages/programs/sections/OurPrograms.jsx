@@ -5,8 +5,8 @@ import Button from "@/components/buttons/Button";
 
 const OurPrograms = () => {
   return (
-    <section className="bg-gray-50 px-2 py-4 md:px-10 md:py-4 lg:px-20 lg:py-4">
-      <SectionHeading className="py-4 mb-4 text-left text-[#7030A0] px-2 lg:p-8 lg:px-1">
+    <section className="bg-gray-50 px-2 py-3  md:px-10  lg:px-20">
+      <SectionHeading className=" mb-2 text-left text-[#7030A0]">
         Our Programs
       </SectionHeading>
 
@@ -14,7 +14,7 @@ const OurPrograms = () => {
         {programsData.map((program, index) => (
           <div
             key={index}
-            className={`flex flex-col lg:flex-row gap-8 p-4 ${
+            className={`flex  flex-col lg:flex-row gap-8 md:p-4 ${
               index % 2 === 0 ? "lg:flex-row" : "lg:flex-row-reverse"
             }`}
           >
@@ -27,7 +27,7 @@ const OurPrograms = () => {
             <div className="lg:w-1/2 flex  flex-col justify-center">
               <DynamicText
                 as="h1"
-                className="text-xl font-bold text-purple-800 lg:text-3xl mb-4 font-montserrat"
+                className="text-xl font-bold text-purple-800 lg:text-2xl py-1 "
               >
                 {program.title}
               </DynamicText>
@@ -35,7 +35,7 @@ const OurPrograms = () => {
                 <DynamicText
                   key={idx}
                   as="p"
-                  className="text-base leading-7 lg:text-lg text-left text-black mt-4"
+                  className="text-left px-4 mt-4"
                 >
                   {paragraph}
                 </DynamicText>

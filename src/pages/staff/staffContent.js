@@ -30,7 +30,7 @@ export const staffContent = [
     {
         image: mwita,
         name: "Mwita immaculate wanbura -  Treasurer",
-        description: `mmaculate is the honorary Treasurer of KGCDC. A career teacher and a pastor. She holds a Degree in Bible and theology and
+        description: `Imaculate is the honorary Treasurer of KGCDC. A career teacher and a pastor. She holds a Degree in Bible and theology and
         Higher Diploma in special needs education`
     },
     {

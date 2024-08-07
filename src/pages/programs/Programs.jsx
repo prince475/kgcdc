@@ -7,15 +7,11 @@ import OurPrograms  from "./sections/OurPrograms";
 const Programs = () => {
   return(
   <section >
-    
-    <Hero />
-   
+       <Hero />
        <OurApproach />
        <OurPrograms />
        <Achievements />
        <Activities />
- 
-
   </section>
    
 
