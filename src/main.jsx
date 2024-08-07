@@ -3,7 +3,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
-import About from "./pages/about/About.jsx";
 import Contact from "./pages/contact/Contact.jsx";
 import Programs from "./pages/programs/Programs.jsx";
 import SupportUs from "./pages/support-us/SupportUs.jsx";
@@ -18,10 +17,6 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <Home />,
-      },
-      {
-        path: "about",
-        element: <About />,
       },
       {
         path: "programs",

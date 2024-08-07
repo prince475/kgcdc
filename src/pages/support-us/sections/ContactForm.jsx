@@ -113,7 +113,7 @@ const ContactForm = () => {
           </div>
           <div className="mt-4 items-center md:col-span-2">
             <DynamicText className="text-left text-base md:text-lg lg:text-xl mb-4">
-              We're here to help! Please leave your inquiry below, and we'll get back to you as soon as possible.
+              We&apos;re here to help! Please leave your inquiry below, and we&apos;ll get back to you as soon as possible.
             </DynamicText>
             <textarea
               id="Message"

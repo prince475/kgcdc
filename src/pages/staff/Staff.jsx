@@ -9,8 +9,8 @@ const Staff = () => {
     <section className="container mx-ato p-4 lg:px-32 ">
 
 
-      <SectionHeading className=" font-montserrat text-left text-purple-800 lg:py-4 lg:px-0">
-        Our Staff
+      <SectionHeading className=" font-montserrat text-left text-purple-800 py-5  lg:px-0">
+        Our Staff 
       </SectionHeading>
        
 

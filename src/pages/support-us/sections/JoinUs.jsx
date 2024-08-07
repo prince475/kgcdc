@@ -21,7 +21,7 @@ const JoinUs = ({ onShowVolunteer, onShowSponsorChild }) => {
               {item.name}
             </DynamicText>
 
-            <DynamicText className="text-sm text-left md:text-base lg:leading-6 lg:text-lg font-montserrat text-black mt-4">
+            <DynamicText className="text-left  mt-4">
               {item.description}
             </DynamicText>
 

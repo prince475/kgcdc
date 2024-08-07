@@ -11,7 +11,7 @@ export const OurApproach = () => {
       <SectionHeading className="text-left text-purple-800">
         {name}
       </SectionHeading>
-      <DynamicText as="p" className="text-base leading-6 font-montserrat text-left text-black mt-10 md:text-lg lg:text-xl md:leading-7 lg:leading-8">
+      <DynamicText as="p" className="  text-left mt-4">
         {description}
       </DynamicText>
     </section>

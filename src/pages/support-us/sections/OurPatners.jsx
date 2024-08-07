@@ -11,10 +11,10 @@ const OurPartners = () => {
             key={index}
           >
             <img src={partner.icon} alt={partner.name} className="w-[120px] h-[120px] mb-2" />
-            <DynamicText as='h1' className="text-lg font-montserrat md:text-xl lg:text-2xl font-bold">
+            <DynamicText as='h1' className="text-lg md:text-xl lg:text-2xl font-bold">
               {partner.name}
             </DynamicText>
-            <DynamicText className="text-sm md:text-base lg:leading-6 lg:text-[16px] font-montserrat text-black mt-4">
+            <DynamicText className=" mt-4">
               {partner.description}
             </DynamicText>
           </div>
